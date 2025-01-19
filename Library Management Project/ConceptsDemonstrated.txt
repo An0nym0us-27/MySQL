@@ -9,7 +9,7 @@
 ~Primary key and Foreign key relations
 
 ~Aggregate functions
-  -COUNT, 
+  -COUNT
 
 ~Indexing
 
