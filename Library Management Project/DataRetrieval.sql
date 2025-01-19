@@ -37,6 +37,7 @@ UPDATE BorrowingRecordTable
 SET Return_Date = '2025-02-12'
 WHERE BorrowerID = 21;
 
+
 /* Deleting a borrower record from the data base*/
 DELETE FROM BorrowingRecordTable WHERE Record_ID = 21;
 DELETE FROM BorrowersTable WHERE Borrower_ID = 21;
