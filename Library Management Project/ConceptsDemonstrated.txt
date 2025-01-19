@@ -1,1 +1,18 @@
+~Database design and normalization
+  -Third nominal form was used for this database.
 
+~Data integrity and constraints
+
+~Data insertion, removal, retrieval, joining, and updating
+  -SELECT, JOIN, UPDATE, DELETE, GROUP BY, WHERE, NULL
+
+~Primary key and Foreign key relations
+
+~Aggregate functions
+  -COUNT, 
+
+~Indexing
+
+~Debugging
+
+~Realworld application
